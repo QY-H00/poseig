@@ -1,7 +1,3 @@
-# PoseIG
-
-# Poster
-![image](./assets/cvpr23_poster_analyzing.png)
 
 # Code Template
 
